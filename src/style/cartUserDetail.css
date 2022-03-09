@@ -1,0 +1,17 @@
+.user-cart-main-detail{
+    height: 100vh;
+    background-color: #eaeded;
+}
+.user-cart-btn button:nth-child(1):hover{
+    background-color: #e7bb38 !important;
+}
+.user-cart-btn button:nth-child(2):hover{
+    background-color: rgb(226, 223, 223) !important;
+}
+.card-para span:nth-child(1):hover{
+    cursor: pointer;
+    text-decoration: underline !important;
+}
+.card-para span:nth-child(2){
+    color: #c29d2f !important;
+}
